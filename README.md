@@ -44,7 +44,7 @@ Performance of the trained model on the flower classification task:
 | Dataset       | Accuracy     | Loss        |
 |---------------|--------------|-------------|
 | Training Set  | ~98%         | ~0.05       |
-| Validation Set| ~95%         | ~0.10       |
+| Validation Set| ~86%         | ~0.15       |
 | Test Set      | ~94–96%      | ~0.12       |
 
 
